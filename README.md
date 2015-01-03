@@ -1,4 +1,12 @@
-patatap-downloader
-==================
+####Intro
 
-A script which downloads the sound files from http://patatap.com
+This project downloads the mp3 files from [patatap](http://patatap.com).
+
+####Use
+
+Run the command `./download <directory>` with your chosen download path as `<directory>`.
+
+####Requirements
+
+- Python
+- Wget
